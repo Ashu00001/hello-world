@@ -1,4 +1,4 @@
-# Welcome to GitHub
+## Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
@@ -42,7 +42,7 @@ When you make any change to any file in your project, you’re making a **commit
 
 With each commit, you have the opportunity to write a **commit message**, a short, meaningful comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit.
 
-## Practice: Customize your first GitHub website by writing HTML code
+### Practice: Customize your first GitHub website by writing HTML code
 
 Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
 
